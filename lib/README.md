@@ -1,13 +1,4 @@
-# Repositorio de prueba de Widgets Flutter
-
-Este repositorio contiene diversos ejemplos para mostrar el uso de algunos de los
-Widgets más útiles para la creación de aplicaciones con Flutter.
-
-Los ejercicios han sido definidos para apoyar la impartición de la matería de
-Desarrollo de Aplicaciones para Dispositivos Móviles de la carrera de Ingeniería en Informática
-del Tecnológico Nacional de México, campus Instituto Tecnológico de Hermosillo.
-
-## Estructura y uso del repositorio
+#  Estructura de archivos y uso
 
 En general, los diversos ejercicios se han realizado en archivos separados, definidos como librerías,
 de forma que sean importados en el archivo `lib/main.dart`.
@@ -25,6 +16,8 @@ Los ejercicios han sido clasificados de la siguiente manera:
 * `txt/` -> contiene ejercicios para mostrar texto en las interfaces
 * `txtinput -> contiene ejercicios para capturar datos en formato de texto
 
+
+***
 ## Recursos adicionales
 Para acceder al resto de los recursos del curso, es necesario ser estudiante inscrito en la materia,
 para poder entrar en el siguiente enlace:
