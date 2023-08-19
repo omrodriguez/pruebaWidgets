@@ -10,7 +10,7 @@ del Tecnológico Nacional de México, campus Instituto Tecnológico de Hermosill
 ## Estructura y uso del repositorio
 
 En general, los diversos ejercicios se han realizado en archivos separados, definidos como librerías,
-de forma que sean importados en el archivo `lib/main.dart`.
+de forma que sean importados en el archivo `lib/main.dart`. Dentro del directorio `lib/` se encuentra un archivo donde se explicará cómo probar cada ejercicio.
 
 
 ## Recursos adicionales

@@ -12,6 +12,18 @@ del Tecnológico Nacional de México, campus Instituto Tecnológico de Hermosill
 En general, los diversos ejercicios se han realizado en archivos separados, definidos como librerías,
 de forma que sean importados en el archivo `lib/main.dart`.
 
+Los ejercicios han sido clasificados de la siguiente manera:
+* `appstate/` -> contiene ejercicios para el manejo del estado de un widget
+* `btn/` -> contiene ejercicios para el manejo de botones
+* `datetime/` -> contiene ejercicios para la captura de fechas y horas
+* `grid/` -> contiene ejercicios para presentar información en forma de grid (cuadrícula)
+* `img/` -> contiene ejercicios para el uso de imágenes e íconos
+* `layout/` -> contiene ejercicios para el uso de los elementos más comunes para el diseño y organización de las interfaces
+* `list/` -> contiene ejercicios para mostrar listas
+* `select/` -> contiene ejercicios sobre widgets para elgir opciones
+* `toast/` -> contiene ejercicios para enviar notificaciones Toast
+* `txt/` -> contiene ejercicios para mostrar texto en las interfaces
+* `txtinput -> contiene ejercicios para capturar datos en formato de texto
 
 ## Recursos adicionales
 Para acceder al resto de los recursos del curso, es necesario ser estudiante inscrito en la materia,
