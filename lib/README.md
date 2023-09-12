@@ -14,7 +14,7 @@ Los ejercicios han sido clasificados de la siguiente manera:
 * `select/` -> contiene ejercicios sobre widgets para elgir opciones
 * `toast/` -> contiene ejercicios para enviar notificaciones Toast
 * `txt/` -> contiene ejercicios para mostrar texto en las interfaces
-* `txtinput -> contiene ejercicios para capturar datos en formato de texto
+* `txtinput/` -> contiene ejercicios para capturar datos en formato de texto
 
 
 ***

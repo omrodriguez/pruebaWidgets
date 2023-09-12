@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'select/ejemplos_switch_1.dart';
+import 'chart/ejemplo_linechart.dart';
 
 void main() {
   runApp(
